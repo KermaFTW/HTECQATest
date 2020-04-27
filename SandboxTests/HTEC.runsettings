@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+
+  <!-- Configurations that affect the Test Framework -->
+  <RunConfiguration>
+    <!-- Path relative to directory that contains .runsettings file-->
+    <ResultsDirectory>.\TestResults</ResultsDirectory>
+    
+  </RunConfiguration>
+  
+  <!-- Parameters used by tests at run time -->
+  <TestRunParameters>
+    <Parameter name="baseUrl" value="https://qa-sandbox.apps.htec.rs/" />
+    <Parameter name="email" value="markopetricevic@gmail.com" />
+    <Parameter name="password" value="marko1988" />
+  </TestRunParameters>
+
+</RunSettings>
